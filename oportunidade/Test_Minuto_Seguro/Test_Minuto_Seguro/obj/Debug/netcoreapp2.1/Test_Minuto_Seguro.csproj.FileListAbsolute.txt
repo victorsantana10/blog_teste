@@ -1,0 +1,14 @@
+C:\Users\victor.santana_FC\Projetos\Minuto-Seguro\oportunidade\Test_Minuto_Seguro\Test_Minuto_Seguro\bin\Debug\netcoreapp2.1\Test_Minuto_Seguro.deps.json
+C:\Users\victor.santana_FC\Projetos\Minuto-Seguro\oportunidade\Test_Minuto_Seguro\Test_Minuto_Seguro\bin\Debug\netcoreapp2.1\Test_Minuto_Seguro.runtimeconfig.json
+C:\Users\victor.santana_FC\Projetos\Minuto-Seguro\oportunidade\Test_Minuto_Seguro\Test_Minuto_Seguro\bin\Debug\netcoreapp2.1\Test_Minuto_Seguro.runtimeconfig.dev.json
+C:\Users\victor.santana_FC\Projetos\Minuto-Seguro\oportunidade\Test_Minuto_Seguro\Test_Minuto_Seguro\bin\Debug\netcoreapp2.1\Test_Minuto_Seguro.dll
+C:\Users\victor.santana_FC\Projetos\Minuto-Seguro\oportunidade\Test_Minuto_Seguro\Test_Minuto_Seguro\bin\Debug\netcoreapp2.1\Test_Minuto_Seguro.pdb
+C:\Users\victor.santana_FC\Projetos\Minuto-Seguro\oportunidade\Test_Minuto_Seguro\Test_Minuto_Seguro\obj\Debug\netcoreapp2.1\Test_Minuto_Seguro.csproj.CoreCompileInputs.cache
+C:\Users\victor.santana_FC\Projetos\Minuto-Seguro\oportunidade\Test_Minuto_Seguro\Test_Minuto_Seguro\obj\Debug\netcoreapp2.1\Test_Minuto_Seguro.RazorAssemblyInfo.cache
+C:\Users\victor.santana_FC\Projetos\Minuto-Seguro\oportunidade\Test_Minuto_Seguro\Test_Minuto_Seguro\obj\Debug\netcoreapp2.1\Test_Minuto_Seguro.RazorAssemblyInfo.cs
+C:\Users\victor.santana_FC\Projetos\Minuto-Seguro\oportunidade\Test_Minuto_Seguro\Test_Minuto_Seguro\obj\Debug\netcoreapp2.1\Test_Minuto_Seguro.AssemblyInfoInputs.cache
+C:\Users\victor.santana_FC\Projetos\Minuto-Seguro\oportunidade\Test_Minuto_Seguro\Test_Minuto_Seguro\obj\Debug\netcoreapp2.1\Test_Minuto_Seguro.AssemblyInfo.cs
+C:\Users\victor.santana_FC\Projetos\Minuto-Seguro\oportunidade\Test_Minuto_Seguro\Test_Minuto_Seguro\obj\Debug\netcoreapp2.1\Test_Minuto_Seguro.RazorTargetAssemblyInfo.cache
+C:\Users\victor.santana_FC\Projetos\Minuto-Seguro\oportunidade\Test_Minuto_Seguro\Test_Minuto_Seguro\obj\Debug\netcoreapp2.1\Test_Minuto_Seguro.dll
+C:\Users\victor.santana_FC\Projetos\Minuto-Seguro\oportunidade\Test_Minuto_Seguro\Test_Minuto_Seguro\obj\Debug\netcoreapp2.1\Test_Minuto_Seguro.pdb
+C:\Users\victor.santana_FC\Projetos\Minuto-Seguro\oportunidade\Test_Minuto_Seguro\Test_Minuto_Seguro\obj\Debug\netcoreapp2.1\Test_Minuto_Seguro.csprojAssemblyReference.cache

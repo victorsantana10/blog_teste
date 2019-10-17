@@ -1,0 +1,44 @@
+<div class="place-info-box">
+    <div class="place-info-box-content">
+      <div class="row">
+          <div class="col-sm-12 col-xs-12">
+            <h4 class="place-info-box-text">{{itemPost?.title}}</h4>
+          </div>
+      </div>   
+      <br>
+      <div class="row">
+          <div class="col-sm-4">
+              <label>Category: {{itemPost?.category}}</label>
+          </div>
+          <div class="col-sm-4">
+              <label>
+                  <i class="fa fa-calendar"></i> 
+                  {{itemPost?.pubDateFormatted}}
+                </label>
+          </div>
+          <div class="col-sm-4">
+              <label>Total Words: {{itemPost?.totalWord}}</label>
+          </div>
+      </div>  
+      <br>
+      <div class="row">
+          <div class="col-sm-12">
+              <label class="place-info-box-text">most cited words:</label> 
+          </div>
+          <div class="col-sm-12">
+              <div *ngIf="itemPost.countMostRelevantWords.length > 0">
+                  <label class="place-info-box-detail" *ngFor="let wordRelevance of itemPost?.countMostRelevantWords">
+                    {{wordRelevance?.word}} ({{wordRelevance?.count}}) - &nbsp;
+                  </label>
+                </div> 
+          </div>
+      </div>    
+      <br>
+      <div class="row">
+          <div class="col-sm-12">
+            <blockquote class="place-info-box-detail" [innerHTML]="itemPost?.contentEncoded"></blockquote>
+          </div>
+      </div>
+      <br>
+    </div>
+  </div>

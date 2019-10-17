@@ -1,0 +1,14 @@
+<section class="content-header">
+  <h1>
+    Últimos 10 Posts
+  </h1>
+</section>
+
+<section class="content" *ngIf="post" >
+  <div class="row">
+      <div *ngFor="let item of post.channel.item" class="col-sm-12 col-xs-12">
+        <mt-post [itemPost]="item"></mt-post>
+      </div>
+  </div>
+
+</section>
